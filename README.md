@@ -8,7 +8,7 @@ You can test this model yourself using your own webcam. No setup required:
 👉 [Click Here to Launch Model](https://teachablemachine.withgoogle.com/models/6gm-QzRHF/)
 
 📸 Proof of Concept
-Below is a visual representation of the AI identifying me and my objects with high confidence:
+Below is a visual representation of the AI identifying objects with high confidence:
 
 <img width="122" height="248" alt="image" src="https://github.com/user-attachments/assets/fa39046e-a1ab-4f78-a674-f8129aed2537" />
 <img width="112" height="238" alt="image" src="https://github.com/user-attachments/assets/d8f96efa-c059-4cb4-baab-05ff7a8fee8f" />
@@ -29,6 +29,7 @@ Paper: When I placed the paper in front of the webcam, the model classified it a
 
 
 🛠️ Tools Used
+
 Teachable Machine - Utilized for gathering webcam data, providing labels, and training the classification model.
 
 GitHub - I used GitHub to store my files and share the project with others
@@ -36,6 +37,7 @@ GitHub - I used GitHub to store my files and share the project with others
 TensorFlow.js - The framework that allows this model to run directly in your browser.
 
 📝 Reflection
+
 Why this project is Supervised Learning
 This project is an example of Supervised Learning because I provided the model with labeled training data. I created the classes myself and assigned names to each category (for example: Scissors, Paper, Bottle, Empty). The AI learned by matching the visual patterns in the images to the labels I gave it. Without my labels, the model would not know what each object represents.
 
