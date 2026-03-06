@@ -14,6 +14,7 @@ Below is a visual representation of the AI identifying me and my objects with hi
 <img width="112" height="238" alt="image" src="https://github.com/user-attachments/assets/d8f96efa-c059-4cb4-baab-05ff7a8fee8f" />
 <img width="112" height="238" alt="image" src="https://github.com/user-attachments/assets/80ea7c6f-c9af-4fac-bb7f-4a340b8dc5b0" />
 <img width="155" height="270" alt="image" src="https://github.com/user-attachments/assets/1ea8042d-5734-444e-a271-cde261e8da0a" />
+
 🧠 How it Works
 mages were collected using a webcam. During the data collection process, the lighting conditions were intentionally varied to make the dataset more diverse and improve the model’s ability to recognize objects in different environments.
 
