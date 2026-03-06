@@ -9,6 +9,7 @@ You can test this model yourself using your own webcam. No setup required:
 
 📸 Proof of Concept
 Below is a visual representation of the AI identifying me and my objects with high confidence:
+
 <img width="122" height="248" alt="image" src="https://github.com/user-attachments/assets/fa39046e-a1ab-4f78-a674-f8129aed2537" />
 <img width="112" height="238" alt="image" src="https://github.com/user-attachments/assets/d8f96efa-c059-4cb4-baab-05ff7a8fee8f" />
 <img width="112" height="238" alt="image" src="https://github.com/user-attachments/assets/80ea7c6f-c9af-4fac-bb7f-4a340b8dc5b0" />
